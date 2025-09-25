@@ -1,0 +1,3 @@
+{'algorithm': 'bfs', 'success_rate': 0.0, 'avg_time': inf, 'avg_cost': inf, 'avg_nodes_expanded': inf}
+{'algorithm': 'ucs', 'success_rate': 0.0, 'avg_time': inf, 'avg_cost': inf, 'avg_nodes_expanded': inf}
+{'algorithm': 'astar', 'success_rate': 0.0, 'avg_time': inf, 'avg_cost': inf, 'avg_nodes_expanded': inf}

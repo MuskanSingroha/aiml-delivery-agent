@@ -1,0 +1,1226 @@
+[
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 999
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 998
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 997
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 996
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 206,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 995
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 207,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 994
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 208,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 993
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 992
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 991
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 990
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 989
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 988
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 212,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 987
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 986
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 985
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 984
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 983
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 205,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 982
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 206,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 981
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 209,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 980
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 979
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 978
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 977
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 976
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 975
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 974
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 973
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 972
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 212,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 971
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 970
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 204,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 969
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 207,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 968
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 209,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 967
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 966
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 965
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 964
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 212,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 963
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 962
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 961
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 960
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 959
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 958
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 957
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 205,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 956
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 208,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 955
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 209,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 954
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 209,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 953
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 952
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 210,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 951
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 211,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 950
+  },
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      14,
+      14
+    ],
+    "path_length": 30,
+    "cost": 28,
+    "nodes_expanded": 209,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 949
+  }
+]

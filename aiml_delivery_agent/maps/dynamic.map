@@ -1,0 +1,32 @@
+SIZE 15 15
+START 0 0
+GOAL 14 14
+
+# Some basic terrain
+TERRAIN 3 3 2
+TERRAIN 6 6 3
+TERRAIN 9 9 2
+TERRAIN 12 12 4
+
+# Static obstacles
+OBSTACLE 2 2
+OBSTACLE 4 4
+OBSTACLE 6 8
+OBSTACLE 8 6
+OBSTACLE 10 10
+OBSTACLE 12 12
+
+# Dynamic obstacle 1: Moving horizontally in a loop
+DYNAMIC horizontal_obs 7 1 7 2 7 3 7 4 7 5 7 6 7 7 7 8 7 9 7 10 7 11 7 12 7 13
+
+# Dynamic obstacle 2: Moving vertically in a loop
+DYNAMIC vertical_obs 1 7 2 7 3 7 4 7 5 7 6 7 7 7 8 7 9 7 10 7 11 7 12 7 13 7
+
+# Dynamic obstacle 3: Moving in a square pattern
+DYNAMIC square_obs 3 10 4 10 5 10 5 11 5 12 4 12 3 12 3 11
+
+# Dynamic obstacle 4: Moving diagonally (zigzag)
+DYNAMIC zigzag_obs 10 3 11 4 12 5 11 6 10 7 11 8 12 9 11 10 10 11
+
+# Dynamic obstacle 5: Fast-moving obstacle (appears less frequently)
+DYNAMIC fast_obs 1 1 1 2 1 3 2 3 3 3 3 2 3 1 2 1

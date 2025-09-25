@@ -1,0 +1,106 @@
+[
+  {
+    "algorithm": "astar",
+    "from": [
+      0,
+      0
+    ],
+    "to": [
+      4,
+      4
+    ],
+    "path_length": 10,
+    "cost": 8,
+    "nodes_expanded": 20,
+    "success": true
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      0
+    ],
+    "cost": 1,
+    "fuel_remaining": 999
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      1
+    ],
+    "cost": 1,
+    "fuel_remaining": 998
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      2
+    ],
+    "cost": 1,
+    "fuel_remaining": 997
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      3
+    ],
+    "cost": 1,
+    "fuel_remaining": 996
+  },
+  {
+    "event": "move",
+    "to": [
+      0,
+      4
+    ],
+    "cost": 1,
+    "fuel_remaining": 995
+  },
+  {
+    "event": "move",
+    "to": [
+      1,
+      4
+    ],
+    "cost": 1,
+    "fuel_remaining": 994
+  },
+  {
+    "event": "move",
+    "to": [
+      2,
+      4
+    ],
+    "cost": 1,
+    "fuel_remaining": 993
+  },
+  {
+    "event": "move",
+    "to": [
+      3,
+      4
+    ],
+    "cost": 1,
+    "fuel_remaining": 992
+  },
+  {
+    "event": "move",
+    "to": [
+      4,
+      4
+    ],
+    "cost": 1,
+    "fuel_remaining": 991
+  },
+  {
+    "event": "delivery_complete",
+    "goal": [
+      4,
+      4
+    ],
+    "goals_remaining": 0
+  }
+]
