@@ -29,6 +29,23 @@ aiml-delivery-agent/
       ├── large.map # 20x20 grid for performance testing
       └── dynamic.map # 15x15 grid with moving obstacles
       
+## 📁 Project Files
+
+### Source Code
+- [main.py](main.py) - Main CLI interface
+- [environment.py](environment.py) - Grid environment model
+- [agent.py](agent.py) - Autonomous delivery agent
+- [search_algorithms.py](search_algorithms.py) - Search algorithms implementation
+- [utils.py](utils.py) - Utility functions
+
+### Test Maps
+- [maps/small.map](maps/small.map) - 5x5 test grid
+- [maps/medium.map](maps/medium.map) - 10x10 test grid
+- [maps/large.map](maps/large.map) - 20x20 test grid
+- [maps/dynamic.map](maps/dynamic.map) - Dynamic obstacles map
+
+### Documentation
+- [requirements.txt](requirements.txt) - Python dependencies      
 ## 🧠 Algorithms Implemented
 
 ### **Uninformed Search Algorithms**
